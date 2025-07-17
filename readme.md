@@ -61,5 +61,4 @@ O banco de dados esta na pasta mariadb.
 Dados disponiveis em: https://dados.gov.br/dados/conjuntos-dados/lista-de-produo-de-piscicultura-em-guas-da-unio
 
 
-![Dashboard Superset](superset/dash-superset.png)
 
