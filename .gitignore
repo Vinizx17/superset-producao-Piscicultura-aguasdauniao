@@ -1,0 +1,25 @@
+# Ignorar arquivo de variáveis de ambiente
+.env
+
+# Ignorar arquivos de configuração local do VS Code
+.vscode/
+
+# Ignorar arquivos Docker build cache
+docker-compose.override.yml
+
+# Ignorar arquivos Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar diretórios e arquivos do Superset (cache, logs, etc)
+superset_home/*
+!superset_home/.gitkeep
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários do sistema
+*.swp
+.DS_Store
