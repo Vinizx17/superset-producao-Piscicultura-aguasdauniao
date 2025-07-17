@@ -1,4 +1,4 @@
-# Dashboard produção em aguasda união
+# Dashboard produção em aguas da união
 
 Este projeto configura um ambiente completo com MariaDB, PhpMyAdmin e Apache Superset via Docker Compose. O Superset foi customizado para incluir automaticamente o driver MySQL necessário para conectar ao banco MariaDB. As credenciais ficam armazenadas no arquivo `.env` para maior segurança e facilidade.
 
